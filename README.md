@@ -1,6 +1,6 @@
-<span style="color: #32de84;">⚡ Welcome to my GitHub ⚡</span>
+<div align="center" ><span>⚡ Welcome to my GitHub ⚡</span></div>
 <br>
-<div style="font-size: 30px" align="center">Under construction</div>
+<div align="center">Under construction</div>
 
 
 
