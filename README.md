@@ -1,4 +1,4 @@
-<div align="center" ><span>⚡ Welcome to my GitHub ⚡</span></div>
+<h1 align="center" >⚡ Welcome to my GitHub ⚡</h1>
 <br>
 <div align="center">Under construction</div>
 
