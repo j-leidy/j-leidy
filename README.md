@@ -2,7 +2,7 @@
 <br>
 <div align="center">Under construction</div>
 
-$${\colorColor{red}Red}$$
+$${Red{red}Red}$$
 
 <a href="" target="_blank"><img src=""/></a>
 
