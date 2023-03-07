@@ -2,7 +2,13 @@
 <br>
 <div align="center">Under construction</div>
 
-$${\{red}Red}$$
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+<r>test</r>
 
 <a href="" target="_blank"><img src=""/></a>
 
