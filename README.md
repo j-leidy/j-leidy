@@ -1,16 +1,9 @@
-<span style="color: #32de84;">Welcome to my GitHub</span>
+<span style="color: #32de84;">⚡ Welcome to my GitHub ⚡</span>
 <br>
-<div align="center">Under construction</div>
+<div style="font-size: 30px" align="center">Under construction</div>
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
 
-<r>test</r>
 
-<a href="" target="_blank"><img src=""/></a>
 
 
 <!--
