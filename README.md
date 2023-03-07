@@ -1,4 +1,4 @@
-<span style = "color: #32de84">Welcome</span>
+<span style="color: #32de84;">Welcome</span>
 
 
 
