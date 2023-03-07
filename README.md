@@ -1,7 +1,9 @@
 <h1 align="center" >⚡ Welcome to my GitHub ⚡</h1>
 <br>
 <div align="center">Under construction</div>
+<div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JkNmNjMzc1ZGRjODUwZDBlYzIxZWQyODhmNTY4N2U3ZjE0YjMyNyZjdD1n/hzJxU2kVddqPhMGIf3/giphy.gif" width="426" height="240"/>
+</div>
 
 
 
