@@ -9,9 +9,7 @@
     <img src="https://i.imgur.com/W7nBWtb.png"/>
     <img src="https://i.imgur.com/QEVGiM9.png"/>
     <img src="https://i.imgur.com/JWwgIbn.png"/>
-    <img src="https://i.imgur.com/KhKcHFU.png"/>
-    
-  </div>
+</div>
 
 
 
