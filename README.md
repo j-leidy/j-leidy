@@ -2,14 +2,14 @@
 <br>
 <div align="center">Under construction</div>
 
-<div align="center"><h2>Languages I am familiar with</h2></div>
+<div align="center"><h3>Languages I am familiar with</h3></div>
 <div align="center">
     <img src="https://i.imgur.com/KhKcHFU.png"/>
     <img src="https://i.imgur.com/KA2DLXY.png"/>
     <img src="https://i.imgur.com/W7nBWtb.png"/>
     <img src="https://i.imgur.com/QEVGiM9.png"/>
 </div>
-<div align="center"><h2>Frameworks/Technologies</h2></div>
+<div align="center"><h3>Frameworks/Technologies</h3></div>
 <div align="center">
     <img src="https://i.imgur.com/MrbmMrk.png"/>
     <img src="https://i.imgur.com/EnDIlMJ.png" width=48 height=48/>
