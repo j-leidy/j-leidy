@@ -2,6 +2,13 @@
 <br>
 <div align="center">Under construction</div>
 
+<div align="center">Languages I am familiar with</div>
+<div>
+    <img src="https://i.imgur.com/KhKcHFU.png"/>
+  </div>
+
+
+
 <details>
   <summary><h3>About Me</h3></summary>
   <div>
