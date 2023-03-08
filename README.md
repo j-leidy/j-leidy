@@ -4,7 +4,12 @@
 
 <details>
   <summary><h3>About Me</h3></summary>
-  <div style="text-indent: 20px">Testing indent</div>
+  <div>
+    <p>
+      My name is John Leidy II. I am a student, co-worker and developer working towards a Bachelor's Degree in Computer Science. In my free time I enjoy working on side projects and playing video games. I am familiar with many technologies and languages. Check out some of my public repositories if you would like!
+      Thank you!
+    </p>
+  </div>
 </details>
 
 
