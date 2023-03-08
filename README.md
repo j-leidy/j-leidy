@@ -1,6 +1,4 @@
 <h1 align="center" >⚡ Welcome to my GitHub ⚡</h1>
-<br>
-<div align="center">Under construction</div>
 
 <div align="center"><h3>Languages I am familiar with</h3></div>
 <div align="center">
@@ -28,6 +26,9 @@
     </p>
   </div>
 </details>
+
+
+<div align="center">Under construction</div>
 
 
 
