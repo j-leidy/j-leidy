@@ -3,8 +3,14 @@
 <div align="center">Under construction</div>
 
 <div align="center">Languages I am familiar with</div>
-<div>
+<div align="center">
     <img src="https://i.imgur.com/KhKcHFU.png"/>
+    <img src="https://i.imgur.com/KA2DLXY.png"/>
+    <img src="https://i.imgur.com/KhKcHFU.png"/>
+    <img src="https://i.imgur.com/KhKcHFU.png"/>
+    <img src="https://i.imgur.com/KhKcHFU.png"/>
+    <img src="https://i.imgur.com/KhKcHFU.png"/>
+    
   </div>
 
 
