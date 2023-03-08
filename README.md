@@ -8,7 +8,13 @@
     <img src="https://i.imgur.com/KA2DLXY.png"/>
     <img src="https://i.imgur.com/W7nBWtb.png"/>
     <img src="https://i.imgur.com/QEVGiM9.png"/>
-    <img src="https://i.imgur.com/JWwgIbn.png"/>
+</div>
+<div align="center">Frameworks/Technologies</div>
+<div align="center">
+    <img src="https://i.imgur.com/MrbmMrk.png"/>
+    <img src="https://i.imgur.com/EnDIlMJ.png"/>
+    <img src="https://i.imgur.com/5XlureH.png"/>
+    <img src="https://i.imgur.com/6J1J04z.png"/>
 </div>
 
 
