@@ -1,6 +1,6 @@
-<h1 align="center" >⚡ Welcome to my GitHub ⚡</h1>
+<h1 align="center" >Welcome to my GitHub</h1>
 
-<div align="center"><h3>Languages I am familiar with</h3></div>
+<div align="center"><h3>Languages I speak</h3></div>
 <div align="center">
     <img src="https://i.imgur.com/KhKcHFU.png"/>
     <img src="https://i.imgur.com/KA2DLXY.png"/>
