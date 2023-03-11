@@ -29,9 +29,11 @@
 <a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer (SQLITE3)</a><br>
 
 <h3>Private Projects</h3>
-<div>DW Plumbing Website (React)</div>
-<div>LiquiBot Website (React)</div>
-<div>LiquiBot (discord.py)</div>
+<ul>
+<li>DW Plumbing Website (React)</li>
+<li>LiquiBot Website (React)</li>
+<li>LiquiBot (discord.py)</li>
+</ul>
 
 
 <details>
