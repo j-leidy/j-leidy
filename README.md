@@ -24,8 +24,9 @@
     <a href="https://github.com/j-leidy"  target ="_blank"><img src="https://i.imgur.com/1mX3SYV.png" width=48 height=48/></a>
 </div>
 
-<h3>Projects</h3>
-<a href="https://leidydev.netlify.app/">React.js Portfolio</a>
+<h3>Project Repositories</h3>
+<a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a>
+<a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer</a>
 
 
 <details>
