@@ -1,4 +1,5 @@
 <h1 align="center" >Welcome to my GitHub</h1>
+<h3 align="center">Visitor Count: <img src ="https://profile-counter.glitch.me/{j-leidy}/count.svg"/></h3>
 
 <div align="center"><h3>Languages I speak</h3></div>
 <div align="center">
@@ -16,7 +17,7 @@
     <img src="https://i.imgur.com/OnwjfOn.png" width=48 height=48/>
 </div>
 
-<img src ="https://profile-counter.glitch.me/{j-leidy}/count.svg"/>
+
 
 <details>
   <summary><h3>About Me</h3></summary>
