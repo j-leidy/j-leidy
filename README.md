@@ -25,7 +25,7 @@
 </div>
 
 <h3>Project Repositories</h3>
-<a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a>
+<a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a><br>
 <a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer</a>
 
 
