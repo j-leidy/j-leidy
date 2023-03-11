@@ -25,14 +25,16 @@
 </div>
 
 <h3>Project Repositories</h3>
-<a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a><br>
-<a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer (SQLITE3)</a><br>
+<ul>
+    <li><a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a></li>
+    <li><a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer (SQLITE3)</a></li>
+</ul>
 
 <h3>Private Projects</h3>
 <ul>
-<li>DW Plumbing Website (React)</li>
-<li>LiquiBot Website (React)</li>
-<li>LiquiBot (discord.py)</li>
+    <li>DW Plumbing Website (React)</li>
+    <li>LiquiBot Website (React)</li>
+    <li>LiquiBot (discord.py)</li>
 </ul>
 
 
