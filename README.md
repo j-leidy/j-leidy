@@ -18,7 +18,7 @@
 </div>
 
 <h3>Projects</h3>
-![React.js Portfolio](https://leidydev.netlify.app/)
+[React.js Portfolio](https://leidydev.netlify.app/)
 
 
 <details>
