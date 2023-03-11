@@ -16,7 +16,7 @@
     <img src="https://i.imgur.com/OnwjfOn.png" width=48 height=48/>
 </div>
 
-[Visitor Count](https://profile-counter.glitch.me/{j-leidy}/count.svg)
+<img src ="https://profile-counter.glitch.me/{j-leidy}/count.svg"/>
 
 <details>
   <summary><h3>About Me</h3></summary>
