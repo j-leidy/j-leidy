@@ -16,6 +16,13 @@
     <img src="https://i.imgur.com/6J1J04z.png"/>
     <img src="https://i.imgur.com/OnwjfOn.png" width=48 height=48/>
 </div>
+<div align="center"><h3>Socials</h3></div>
+<div align="center">
+    <a href=""><img src="https://i.imgur.com/madBPSz.png" width=48 height=48/></a>
+    <a href=""><img src="https://i.imgur.com/qTyaQMS.png" width=48 height=48/></a>
+    <a href=""><img src="https://i.imgur.com/5WUQPlO.png" width=48 height=48/></a>
+    <a href=""><img src="https://i.imgur.com/1mX3SYV.png" width=48 height=48/></a>
+</div>
 
 <h3>Projects</h3>
 <a href="https://leidydev.netlify.app/">React.js Portfolio</a>
