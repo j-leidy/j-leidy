@@ -17,6 +17,8 @@
     <img src="https://i.imgur.com/OnwjfOn.png" width=48 height=48/>
 </div>
 
+<h3>Projects</h3>
+![React.js Portfolio](https://leidydev.netlify.app/)
 
 
 <details>
