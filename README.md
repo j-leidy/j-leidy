@@ -4,7 +4,7 @@
 <div align="center"><h3>Languages I speak</h3></div>
 <div align="center">
     <img src="https://i.imgur.com/KhKcHFU.png"/>
-    <img src="https://i.imgur.com/2mp0ht9.png"/>
+    <img src="https://i.imgur.com/2mp0ht9.png" width=48 height=48/>
     <img src="https://i.imgur.com/KA2DLXY.png"/>
     <img src="https://i.imgur.com/W7nBWtb.png"/>
     <img src="https://i.imgur.com/QEVGiM9.png"/>
