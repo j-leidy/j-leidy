@@ -34,7 +34,7 @@
 <h3>Private Projects</h3>
 <ul>
     <li>DW Plumbing Website (React)</li>
-    <li>LiquiBot Website (React)</li>
+    <li><a href="https://liquibot.netlify.app/">LiquiBot Website (React)</a></li>
     <li>LiquiBot (discord.py)</li>
 </ul>
 
