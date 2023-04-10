@@ -41,7 +41,7 @@
 <ul>
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
     <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 30 seconds.</a></li>
-    <li><a href="https://liquibot-api.herokuapp.com/get_timestamped_data?threshold=60" target ="_blank">Timestamped data for the last day.</a></li>
+    <li>Timestamped endpoints are private.</li>
 </ul>
 
 
