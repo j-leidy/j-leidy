@@ -37,6 +37,12 @@
     <li><a href="https://liquibot.netlify.app/">LiquiBot Website (React)</a></li>
     <li><a href="https://liquibot.netlify.app/">LiquiBot (discord.py)</a></li>
 </ul>
+<h3>LiquiBot API Endpoints (dashboard for data coming soon!)</h3>
+<ul>
+    <li>API created using flask and gunicorn. Deployed using Heroku.</li>
+    <li><a href="https://liquibot-api.herokuapp.com/get_data">Data current to the last 30 seconds.</a></li>
+    <li><a href="https://liquibot-api.herokuapp.com/get_timestamped_data?threshold=24">Timestamped data for the last day.</a></li>
+</ul>
 
 
 <details>
