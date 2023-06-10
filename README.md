@@ -40,7 +40,7 @@
 <h3>LiquiBot API Endpoints (dashboard for data coming soon!)</h3>
 <ul>
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
-    <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 30 seconds.</a></li>
+    <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 10 minutes.</a></li>
     <li>Timestamped endpoints are private.</li>
 </ul>
 
