@@ -8,6 +8,7 @@
     <img src="https://i.imgur.com/KA2DLXY.png"/>
     <img src="https://i.imgur.com/W7nBWtb.png"/>
     <img src="https://i.imgur.com/QEVGiM9.png"/>
+    <img src="https://i.imgur.com/whxs61B.png" width=48 height=48/>
 </div>
 <div align="center"><h3>Frameworks/Technologies</h3></div>
 <div align="center">
