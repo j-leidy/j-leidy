@@ -26,9 +26,11 @@
     <a href="https://github.com/j-leidy"  target ="_blank"><img src="https://i.imgur.com/1mX3SYV.png" width=48 height=48/></a>
 </div>
 
-<h3>LiquiBot API Endpoints </h3>
+<h3>LiquiBot (Private)</h3>
 <ul>
     <li><a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
+    <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
+    <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot (discord.py)</a></li>
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
     <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 10 minutes.</a></li>
     <li>Timestamped endpoints are private.</li>
@@ -43,8 +45,6 @@
 <h3>Private Projects</h3>
 <ul>
     <li>DW Plumbing Website (React)</li>
-    <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
-    <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot (discord.py)</a></li>
 </ul>
 
 
