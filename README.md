@@ -27,7 +27,6 @@
 </div>
 
 <h3>LiquiBot (Private)</h3>
-<div>Active Developer Badge Aquired! <img src="https://i.imgur.com/qPD2Icu.png" width=24 height=24/> </div>
 <ul>
     <li><a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
     <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
@@ -35,7 +34,7 @@
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
     <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 10 minutes.</a></li>
     <li>Timestamped endpoints are private.</li>
-    <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png"/></li>
+    <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png" width=10height=10/></li>
 </ul>
 
 <h3>Project Repositories</h3>
