@@ -35,6 +35,7 @@
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
     <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 10 minutes.</a></li>
     <li>Timestamped endpoints are private.</li>
+    <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png"/></li>
 </ul>
 
 <h3>Project Repositories</h3>
