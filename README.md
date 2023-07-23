@@ -30,7 +30,7 @@
 <ul>
     <li><a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
     <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
-    <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot (discord.py)</a></li>
+    <li><a href="https://liquibot.netlify.app/" target ="_blank"><img src="https://i.imgur.com/qPD2Icu.png" width=24 height=24/>LiquiBot (discord.py)</a></li>
     <li>API created using flask and gunicorn. Deployed using Heroku.</li>
     <li><a href="https://liquibot-api.herokuapp.com/get_data" target ="_blank">Data current to the last 10 minutes.</a></li>
     <li>Timestamped endpoints are private.</li>
