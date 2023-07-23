@@ -26,7 +26,7 @@
     <a href="https://github.com/j-leidy"  target ="_blank"><img src="https://i.imgur.com/1mX3SYV.png" width=48 height=48/></a>
 </div>
 
-<h3>LiquiBot (Private)</h3>
+<h3>LiquiBot (Private) <img src="https://imgur.com/nMWf95K"/></h3>
 <ul>
     <li><a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
     <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
