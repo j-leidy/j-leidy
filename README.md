@@ -39,7 +39,7 @@
 
 <h3>Project Repositories</h3>
 <ul>
-    <li><a href="https://github.com/j-leidy/NewPortfolio"></a>New React Typescript Portfolio</li>
+    <li><a href="https://github.com/j-leidy/NewPortfolio">New React Typescript Portfolio</a></li>
     <li><a href="https://github.com/j-leidy/MyPortfolio">React.js Portfolio</a></li>
     <li><a href="https://github.com/j-leidy/C-DatabaseExplorer">C++ Database Explorer (SQLITE3)</a></li>
 </ul>
