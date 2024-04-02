@@ -20,8 +20,6 @@
 </div>
 <div align="center"><h3>Socials</h3></div>
 <div align="center">
-    <a href="https://www.instagram.com/swankdayz/" target ="_blank"><img src="https://i.imgur.com/madBPSz.png" width=48 height=48/></a>
-    <a href="https://twitter.com/Liquiiiiid"  target ="_blank"><img src="https://i.imgur.com/qTyaQMS.png" width=48 height=48/></a>
     <a href="https://www.linkedin.com/in/jrleidyii/"  target ="_blank"><img src="https://i.imgur.com/5WUQPlO.png" width=48 height=48/></a>
     <a href="https://github.com/j-leidy"  target ="_blank"><img src="https://i.imgur.com/1mX3SYV.png" width=48 height=48/></a>
 </div>
