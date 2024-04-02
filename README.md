@@ -9,7 +9,7 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github.com/j-leidy/j-leidy/blob/main/Liquibot.png" height=100 />
+<img src="https://github.com/j-leidy/j-leidy/blob/main/Liquibot.png" height=140 />
 <ul>
     <li> <a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
     <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
