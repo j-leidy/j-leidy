@@ -25,7 +25,7 @@
 </div>
 
 <h3>LiquiBot (Private)</h3>
-<img src="https://github.com/j-leidy/j-leidy/liquibot.png" height=70/>
+<img src="https://github.com/j-leidy/j-leidy/blob/main/Liquibot.png" height=70/>
 <ul>
     <li> <a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP)</a></li>
     <li> <a href="https://discord.com/oauth2/authorize?client_id=1074436572172259500&permissions=8&scope=bot" target="_blank">Add Liquibot to your server!</a></li>
