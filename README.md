@@ -19,7 +19,7 @@
     <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png" width=16height=16/></li>
 </ul>
 
-### Public Projects
+### Public Projects and Contributions
 
 <ul>
     <li><a href="https://github.com/j-leidy/NewPortfolio">Portfolio</a></li>
