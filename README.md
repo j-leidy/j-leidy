@@ -1,7 +1,7 @@
 <h1 align="center" >Welcome to my GitHub</h1>
 <h3 align="center"><img src ="https://profile-counter.glitch.me/{j-leidy}/count.svg"/></h3>
 
-<h3>Technical Skills<h3>
+### 💼 Technical Skills
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -19,7 +19,8 @@
     <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png" width=16height=16/></li>
 </ul>
 
-<h3>Public Project Repositories</h3>
+### Public Projects
+
 <ul>
     <li><a href="https://github.com/j-leidy/NewPortfolio">Portfolio</a></li>
 </ul>
