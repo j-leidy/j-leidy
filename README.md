@@ -11,7 +11,7 @@
 
 <img src="https://github.com/j-leidy/j-leidy/blob/main/Liquibot.png" height=140 />
 
-![Spotify](https://liquibot-api.herokuapp.com/svg?)
+![Spotify](https://liquibot-api.herokuapp.com/svg?-)
 
 <ul>
     <li> <a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP) </a></li>
