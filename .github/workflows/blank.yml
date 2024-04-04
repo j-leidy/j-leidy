@@ -6,6 +6,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Clear all caches
-              run: gh cache delete --all --repo me/jleidy
-              env:
-                  GITHUB_TOKEN: ${{ secrets.ACTION_CLEAR_CACHES_TOKEN }}
+            - uses: kevincobain2000/action-camo-purge@v1
