@@ -1,15 +1,11 @@
-name: Clear GitHub user content cache
-
-on:
-    push:
-        branches:
-            - main # Change this to your main branch name
-
+name: Clear all GitHub actions caches
+on: push
 jobs:
-    clear-cache:
+    clear-github-caches:
+        name: Clear all GitHub action caches
         runs-on: ubuntu-latest
         steps:
-            - name: purge
-            - uses: j-leidy/action-camo-purge@v1
-            - name: Run a script
-              run: echo This script clears the GitHub user content cache
+            - name: Clear all caches
+              run: gh cache delete --all --repo jleidy/jleidy
+              env:
+                  GITHUB_TOKEN: ${{ secrets.ACTION_CLEAR_CACHES_TOKEN }}
