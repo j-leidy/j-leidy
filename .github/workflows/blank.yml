@@ -1,5 +1,11 @@
 name: Clear all GitHub actions caches
 on: push
 jobs:
-    - name: action-camo-purge
-      uses: kevincobain2000/action-camo-purge@v1
+    action-camo-purge:
+        name: action-camo-purge
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+            - name: Clear Cache
+              uses: kevincobain2000/action-camo-purge@v1
