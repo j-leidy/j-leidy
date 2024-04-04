@@ -6,6 +6,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Clear all caches
-              run: gh cache delete --all --repo jleidy/jleidy
+              run: gh cache delete --all --repo me/jleidy
               env:
                   GITHUB_TOKEN: ${{ secrets.ACTION_CLEAR_CACHES_TOKEN }}
