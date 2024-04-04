@@ -1,24 +1,15 @@
 name: Clear GitHub user content cache
 
 on:
-  push:
-    branches:
-      - main  # Change this to your main branch name
+    push:
+        branches:
+            - main # Change this to your main branch name
 
 jobs:
-  clear-cache:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Clear GitHub user content cache
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-npm-
-
-      - name: Run a script
-        run: echo This script clears the GitHub user content cache
+    clear-cache:
+        runs-on: ubuntu-latest
+        steps:
+            - name: purge
+            - uses: j-leidy/action-camo-purge@v1
+            - name: Run a script
+              run: echo This script clears the GitHub user content cache
