@@ -11,11 +11,7 @@
 
 <img src="https://github.com/j-leidy/j-leidy/blob/main/Liquibot.png" height=140 />
 
-![Messages](https://liquibot-api.herokuapp.com/svg?key=messages)
-
-![Messages](https://liquibot-api.herokuapp.com/svg?key=commands)
-
-![Messages](https://liquibot-api.herokuapp.com/svg?key=users)
+![Messages](https://liquibot-api.herokuapp.com/svg?keys=messages,users,commands)
 
 <ul>
     <li> <a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP) </a></li>
