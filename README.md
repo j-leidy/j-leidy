@@ -15,7 +15,6 @@
     <li> <a href="https://liquidash.netlify.app/">Liquibot Dashboard (WIP) </a></li>
     <li><a href="https://liquibot.netlify.app/" target ="_blank">LiquiBot Website (React)</a></li>
     <li> <a href="https://discord.com/oauth2/authorize?client_id=1074436572172259500&permissions=8&scope=bot" target="_blank">Add Liquibot to your server!</a></li>
-    <li>Active developer badge aquired. <img src="https://i.imgur.com/nMWf95K.png" width=20 height=20/></li>
 </ul>
 
 ### Public Projects and Contributions
